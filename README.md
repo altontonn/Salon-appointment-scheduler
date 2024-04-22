@@ -6,7 +6,7 @@
 
 This repository includes file with plain SQL that can be used to recreate a database:
 
-- Use [universe.sql](./project/freecodecamp/universe.sql) to create all tables and populate them
+- Use [salon.sql](./salon.sql) to create all tables and populate them
 
 ## Author
 
