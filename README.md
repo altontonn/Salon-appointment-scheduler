@@ -32,4 +32,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](https://github.com/altontonn/celestial-bodies/blob/main/LICENSE) licensed.
+This project is [MIT](https://github.com/altontonn/salon-scheduler/blob/main/LICENSE) licensed.
